@@ -33,4 +33,6 @@ Entering value<br>
 </br>
 Multiplication result<br>
 ![Screenshot (22)](https://user-images.githubusercontent.com/99072350/152650922-21020c3e-afe2-4974-a15a-a38a6b8912a3.png)
-
+</br>
+<b>JAVAPROGRAM TO DISPLAY SPECIFIC PATTERNS</b><br>
+![Screenshot (23)](https://user-images.githubusercontent.com/99072350/152651288-24c82888-9a5d-45d1-932e-3e9c76fdc9ef.png)
