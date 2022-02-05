@@ -18,4 +18,9 @@ For profit<br>
  <b>JAVASCRIPT TO DISPLAY 1,4,9,16 UPTO 10th TERM</b></br>
  result<br>
  ![Screenshot (18)](https://user-images.githubusercontent.com/99072350/152649040-559862b0-2478-4d89-8b57-3b2f186834b2.png)
-
+ </br><b>JAVAPROGRAM TO FIND THE NUMBER IS PRIME OR NOT<br>
+ Results
+ <br>for prime</br>
+ ![Screenshot (20)](https://user-images.githubusercontent.com/99072350/152650469-e3599049-e98e-459c-9bea-6b76a2290151.png)
+ </br>for not prime</br>
+![Screenshot (19)](https://user-images.githubusercontent.com/99072350/152650465-22ef949a-a64d-4ea8-bf83-bf77f1c213b7.png)
