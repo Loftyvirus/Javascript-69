@@ -13,5 +13,6 @@ For profit<br>
 ![Screenshot (15)](https://user-images.githubusercontent.com/99072350/152648412-55881c52-5a26-4f36-b833-d8a01f04a347.png)
 </br><b>JAVASCRIPT TO DISLPAY INTEGERS FROM ONE TO HUNDRED<b><br>
  result</br>
-![Screenshot (16)](https://user-images.githubusercontent.com/99072350/152648635-cae2e6a4-5e6c-4a54-9a90-4c09887ead73.png)
+![Screenshot (17)](https://user-images.githubusercontent.com/99072350/152648784-481051ec-b01f-4a5b-8313-29b7789f0a33.png)
+
 <br>
