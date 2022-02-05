@@ -1,7 +1,9 @@
 # Javascript#69
 It's Java time..
 Hello friends I am here to run some javascript or front end scripter to find various problems solution and giving their outputs
-You just have to copy the above code and run as html in dedicated browser!
+the process is simple use vsc code editor and choose its file path
+in my case it's downloads and run as html in dedicated browser!<br>
+Or you can copy my program and run by vsc directly also.....
 <br>Now as promised I have given their outputs as follows:-</br>
 <b>JAVAPROGRAM TO FIND PROFIT AND LOSS<b></br>
 Results<br>
