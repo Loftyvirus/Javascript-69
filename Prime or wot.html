@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <p><b>JAVASCRIPT TO DETERMINE PRIME NUMBER</b></p><p>
+        <form>
+        Enter number = <input type="number" id="god" required><br></br>
+        <input type="button" onclick="f()" value="FIND"><br></br>
+        </form>
+        <span id="click"></span></p>
+       <script>
+       function f(){
+        var num, i, a=0;
+        num=document.getElementById("god").value;
+       for(i=2; i<num; i++){
+       if(num%2==0){
+        a++;}}
+       if(a==0)
+       document.getElementById("click").innerHTML=+num+ " is a Prime Number";
+       else
+       document.getElementById("click").innerHTML=+num + " is not a Prime Number";}
+        
+</script>   
+</body>
+</html>
