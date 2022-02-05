@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <p><b>JAVAPROGRAM FOR MULTIPLICATION TABLE</b></p><p>
+            <form>
+                enter number <br>
+                <input type="number" min="1" placeholder="enter integer" id="god"required></br>
+                <input type="button" onclick="f()" value="show">
+            </form><span id="click"></span></p>
+            <script>
+                function f(){
+                    var n,x,i=1;
+                    x=document.getElementById("god").value;
+                    for(i=1;i<=10;i++){
+                        n=x*i;
+                        document.write(x+"*"+i+"="+n+"<br>");
+                    }
+                }
+
+            </script>
+    </body>
+</html>
