@@ -26,3 +26,11 @@ For profit<br>
  ![Screenshot (20)](https://user-images.githubusercontent.com/99072350/152650469-e3599049-e98e-459c-9bea-6b76a2290151.png)
  </br>for not prime</br>
 ![Screenshot (19)](https://user-images.githubusercontent.com/99072350/152650465-22ef949a-a64d-4ea8-bf83-bf77f1c213b7.png)
+</br>
+<b>JAVAPROGRAM FOR MULTIPLICATION OF GIVEN INTEGER</b></br>
+Entering value<br>
+![Screenshot (21)](https://user-images.githubusercontent.com/99072350/152650915-f76bb3d5-dfa3-4ecb-bf2c-aedc03845d61.png)
+</br>
+Multiplication result<br>
+![Screenshot (22)](https://user-images.githubusercontent.com/99072350/152650922-21020c3e-afe2-4974-a15a-a38a6b8912a3.png)
+
