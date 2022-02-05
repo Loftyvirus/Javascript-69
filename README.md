@@ -14,5 +14,8 @@ For profit<br>
 </br><b>JAVASCRIPT TO DISLPAY INTEGERS FROM ONE TO HUNDRED<b><br>
  result</br>
 ![Screenshot (17)](https://user-images.githubusercontent.com/99072350/152648784-481051ec-b01f-4a5b-8313-29b7789f0a33.png)
-
 <br>
+ <b>Javascript to display 1,4,9,16 upto 10th term</b></br>
+ result<br>
+ ![Screenshot (18)](https://user-images.githubusercontent.com/99072350/152649040-559862b0-2478-4d89-8b57-3b2f186834b2.png)
+
