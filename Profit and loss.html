@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<body>
+    <p><b>Finding profit and loss</b></p>
+    <p><form>
+        Enter S.P= <input type="number" id="a" placeholder="selling price" required><br></br>
+        Enter C.P= <input type="number" id="b" placeholder="cost price"required><br></br>
+        <input type="button" onclick="f()" value="calculate"> </form>
+        <span id="click"></span>
+        </p>
+        <script>
+            function f(){
+                A=document.getElementById("a").value;
+                B=document.getElementById("b").value;
+                loss=B-A;
+                profit=A-B;
+                if(A>B){
+                    document.getElementById("click").innerHTML ="Rs."+profit+" is profit";
+                }else{
+                    document.getElementById("click").innerHTML ="Rs."+loss+" is loss";
+                }
+            }
+
+        </script>
+    
+</body>
+</html>
