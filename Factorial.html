@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <p><b>Finding the Factorial of given number by javascript</b></p>
+        <p><form>
+            Enter number= <input type="number" min="1" id="god" placeholder="enter any number "required><br></br>
+            <input type="button" onclick="f()" value="show"><input type="button" onclick="g()" value="find">
+        </form></p>
+        <script>
+        function f(){
+        var i=1;
+       var n=document.getElementById("god").value;
+        for(i=n;i>=1;i=i-1){
+        document.write(+i,"*");}}
+        function g(){
+        var i=1;
+        var n=document.getElementById("god").value;
+        var factorial=1;
+        for(i=n;i>=1;i=i-1){
+        factorial= factorial*i;
+        }
+        document.write(+factorial+" is the factorial of "+n);
+        }
+</script>
+</body>
+</html>

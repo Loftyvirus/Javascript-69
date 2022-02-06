@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <p><b>JAVAPROGRAM TO DETERMINE THE SUM OF NTH TERM OF ODD NUMBER</b></p>
+<p>
+<form>
+    Enter number =<input type="number" id="god" placeholder="enter any number" min="1" required><br></br>
+    <input type="button" value="show" onclick="f()"><input type="button" value="find" onclick="g()">
+</form>
+</p>    
+<script>
+    var a,b=1;
+    function f(){
+        var a=document.getElementById("god").value;
+        while(b<=a){
+            document.write(b+", ");
+            b=b+2;
+        }
+    }
+    function g(){
+        var a=document.getElementById("god").value;
+        var sum=(a/2)*(a/2);
+        document.write(sum+" is the sum of "+a+"th term ");
+    }
+</script>
+</body>
+</html>

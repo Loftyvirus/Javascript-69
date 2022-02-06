@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <p><b>JAVAPROGRAM TO FIND ODD OR EVEN </b></p>
+    <p><form>
+        Enter any number</br><input type="number" min="1" placeholder="enter number" id="god"required></br>
+        <input type="button" value="find" onclick="f()">
+        </form>
+    <span id="click"></span></p>
+    <script>
+function f(){
+    var a=document.getElementById("god").value;
+    if(a%2==0){
+document.getElementById("click").innerHTML=+a+" is even";
+    }else{
+        document.getElementById("click").innerHTML=+a+" is odd"
+    }
+}
+    </script>
+    
+</body>
+</html>
