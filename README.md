@@ -36,3 +36,33 @@ Multiplication result<br>
 </br>
 <b>JAVAPROGRAM TO DISPLAY SPECIFIC PATTERNS</b><br>
 ![Screenshot (23)](https://user-images.githubusercontent.com/99072350/152651288-24c82888-9a5d-45d1-932e-3e9c76fdc9ef.png)
+<br><b>JAVASCRIPT FOR FACTORIAL</b></br>
+Input </br>![Screenshot (33)](https://user-images.githubusercontent.com/99072350/152687220-d43a6428-0aed-4cc0-b5e3-dc154b1752a4.png)</br>
+show<br>![Screenshot (34)](https://user-images.githubusercontent.com/99072350/152687240-5bf7f54c-d7f3-448d-af86-647f5613f2e4.png)</br>
+value result<br>![Screenshot (35)](https://user-images.githubusercontent.com/99072350/152687249-b55189b2-ccb5-4c31-bfe8-e9d3611f9c14.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
