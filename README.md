@@ -39,7 +39,17 @@ Multiplication result<br>
 <br><b>JAVASCRIPT FOR FACTORIAL</b></br>
 Input </br>![Screenshot (33)](https://user-images.githubusercontent.com/99072350/152687220-d43a6428-0aed-4cc0-b5e3-dc154b1752a4.png)</br>
 show<br>![Screenshot (34)](https://user-images.githubusercontent.com/99072350/152687240-5bf7f54c-d7f3-448d-af86-647f5613f2e4.png)</br>
-value result<br>![Screenshot (35)](https://user-images.githubusercontent.com/99072350/152687249-b55189b2-ccb5-4c31-bfe8-e9d3611f9c14.png)
+value result<br>![Screenshot (35)](https://user-images.githubusercontent.com/99072350/152687249-b55189b2-ccb5-4c31-bfe8-e9d3611f9c14.png)<br>
+<b>JAVASCIPT TO FIND SUM OF NTH TERM OF ODD NUMBER</b>
+<br>input <br>![Screenshot (26)](https://user-images.githubusercontent.com/99072350/152687362-fb941cff-d63b-4853-9590-06188c1ce147.png)</br>
+show the numbers contain<br>![Screenshot (27)](https://user-images.githubusercontent.com/99072350/152687388-27326ef4-7485-4495-8008-cee8fad8a606.png)</br>
+result<br>![Screenshot (28)](https://user-images.githubusercontent.com/99072350/152687404-e5c4f724-8a4a-4667-96f5-1d941cbc51b4.png)
+</br><b>JAVAPROGRAM TO FIND ODD AND EVEN</b><br>
+for even<br>![Screenshot (24)](https://user-images.githubusercontent.com/99072350/152687473-8af7b896-a908-44ca-8c6e-477500898527.png)
+<br>for odd <br>![Screenshot (25)](https://user-images.githubusercontent.com/99072350/152687477-a1b12e28-ca18-40ee-ac4b-20268708c768.png)
+
+
+
 
 
 
